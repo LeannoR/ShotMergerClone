@@ -5,6 +5,16 @@ TagManager:
   serializedVersion: 2
   tags:
   - Gun
+  - Collectives
+  - Collect
+  - Collected
+  - Collect2Box
+  - Barrel
+  - Bullet
+  - CollectTwoBox
+  - CollectedTwoBox
+  - CollectThreeBox
+  - CollectedThreeBox
   layers:
   - Default
   - TransparentFX
